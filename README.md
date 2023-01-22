@@ -8,6 +8,7 @@ Modern GUI calculator developed in Eclipse using Java, JavaFX, and SceneBuilder 
 <p>- Buttonpad for user interfacing</p>
 <p>- Various operators as well as a clear button option</p>
 <p>- Colorful, modern UI</p>
+<p>- Custom button designs</p>
 
 <h1>Video Demo:</h1>
 
