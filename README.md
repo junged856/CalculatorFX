@@ -3,4 +3,4 @@ Modern GUI calculator developed in Eclipse using Java, JavaFX, and SceneBuilder 
 
 <h1>Preview:</h1>
 
-<img src="https://user-images.githubusercontent.com/109245538/213900055-b5184bf8-a5ce-4989-8fc8-646cdc0cb888.png" width="325" height="463">
+<img src="https://user-images.githubusercontent.com/109245538/213900055-b5184bf8-a5ce-4989-8fc8-646cdc0cb888.png" width="244" height="348">
